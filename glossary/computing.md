@@ -4,55 +4,1725 @@ A glossary of computing terms and abbreviations
 
 ## \#
 
+- **#!**: Shebang in Linux
+- **2-D**: two-dimensional
+- **2FA**: two-factor authentication
+- **2G**: second generation
+- **3-D**: three-dimensional
+- **3G**: 3rd Generation
+- **3GPP**: 3rd Generation Partnership Project
+- **3PS**: third-person shooter
+- **5G**: 5th Generation
+- **24x7**: 24 hours a day, seven days a week
+- **24/7**: 24 hours a day, seven days a week
+
 ## A
+
+- **AA**: Anti-alias
+- **AAC**: Advanced Audio Coding
+- **AAM**: automatic acoustic management
+- **AAS**: as a service or Auto Area Segmentation
+- **ABC**: Atanasoff-Berry Computer
+- **Abend**: abnormal end
+- **ABIOS**: Advanced BIOS
+- **ABP**: AdBlock Plus
+- **AC**: alternating current, anonymous coward, or Asheron's Call
+- **ACCT**: account
+- **ACE**: access control entry
+- **Ack**: acknowledgment
+- **ACL**: access control list
+- **ACM**: Association for Computing Machinery
+- **ACPI**: Advanced Configuration and Power Interface
+- **ACR**: absolute cell reference, attenuation crosstalk ratio, actual cell rate, or annual compliance report
+- **ACS**: access control system
+- **AD**: Active Directory
+- **ADB**: Android Debug Bridge or Apple Desktop Bus
+- **ADC**: analog-to-digital
+- **ADO**: ActiveX Data Object
+- **ADPCM**: adaptive delta pulse code modulation
+- **ADSI**: Active Directory Service Interface or analog display service interface
+- **ADSL**: asymmetric digital subscriber line
+- **ADSM**: ADSTAR Distributed Storage Management
+- **AE**: After Effects or automatic exposure
+- **AE Lock**: auto exposure lock
+- **AES**: Advanced Encryption Standard
+- **AF**: Autofocus
+- **AGP**: accelerated graphics port
+- **AHCI**: Advanced Host Controller Interface
+- **AI**: artificial intelligence
+- **AIM**: AOL Instant Messenger or Apple, IBM, and Motorola
+- **AIML**: Artificial Intelligent Markup Language
+- **AIMM**: AGP in-line memory module
+- **AIO**: All-in-One
+- **AIX**: advanced interactive executive
+- **AJAX**: Asynchronous JavaScript and XML
+- **AKA**: also known as
+- **ALGOL**: algorithmic language
+- **Alpha**: alphabet
+- **ALU**: arithmetic logic unit
+- **AM**: amplitude modulation or ante meridiem
+- **AMA**: ask me anything
+- **AMOLED**: active-matrix organic light-emitting diode
+- **Amp**: ampere
+- **ANI**: Automatic Number Identification
+- **ANSI**: American National Standards Institute
+- **AODRM**: always-on digital rights management
+- **AOP**: aspect-oriented programming or auto operator
+- **AOSP**: Android Open Source Project
+- **API**: application programming interface
+- **APIC**: Advanced Programmable Interrupt Controller
+- **APIPA**: Automatic Private Internet Protocol Addressing
+- **APK**: Android package file
+- **APM**: advanced power management
+- **App**: application
+- **APT**: advanced packaging tool or advanced persistent threat
+- **APU**: accelerated processing unit or advanced processing unit
+- **AR**: augmented reality
+- **ARCnet**: Attached Resource Computer network
+- **A record**: address record
+- **Arg**: argument, alternate reality games, or augmented reality games
+- **ARP**: Address Resolution Protocol
+- **ARPA**: Advanced Research Projects Agency or address and routing parameter area
+- **ARPANET**: Advanced Research Projects Agency Network
+- **ARQ**: automatic repeat request
+- **AS**: autonomous system
+- **AS/400**: Application System/400
+- **ASAP**: as soon as possible
+- **ASCII**: American Standard Code for Information Interchange
+- **ASME**: American Society of Mechanical Engineers
+- **ASMR**: autonomous sensory meridian response
+- **ASN**: autonomous system number
+- **ASN.1**: abstract syntax number one
+- **ASP**: Active Server Pages, application service provider, authorized service provider, or answer set programming
+- **ASPI**: advanced SCSI programming interface
+- **ASR**: automated system recovery or automatic speech recognition
+- **AT**: advanced technology
+- **ATA**: Advanced Technology Attachment
+- **ATAPI**: AT Attachment Packet Interface
+- **ATC**: advanced transfer cache
+- **ATF**: above the fold
+- **ATM**: ascynchronous transfer mode, at the moment, or automated teller machine
+- **ATRAC**: Adaptive Transform Acoustic Coding
+- **ATX**: Advanced Technology eXtended
+- **AU**: arithmetic unit
+- **AUI**: Attachment Unit Interface
+- **AUP**: acceptable use policy
+- **Auto**: automatic, automobile, or autonomous
+- **AV**: antivirus, aperture value, or avatar
+- **AVC**: Advanced Video Coding
+- **AVI**: Audio Video Interleaved
+- **AVR**: automatic voltage regulator, automatic voice recognition, or automatic voice response
+- **AWS**: Amazon Web Services
 
 ## B
 
+- **B2B**: business-to-business
+- **B2B**: business-to-consumer
+- **BAE**: before anyone else
+- **Basic**: Beginners All-purpose Symbolic Instruction Code
+- **BAT**: Baby AT
+- **BB**: broadband
+- **BBS**: BIOS boot specification, bulletin board system, or be back shortly
+- **BC**: before Christ
+- **BCC**: blind carbon copy
+- **BCD**: binary-coded decimal
+- **BCP**: best current practices
+- **BCPL**: Basic Combined Programming Language
+- **BD**: Blu-ray disc
+- **BDC**: backup domain controller
+- **BDF**: Glyph Bitmap Distribution Format
+- **BDI**: bidirectional isolation
+- **BDO**: bidirectional override
+- **BEDO DRAM**: Burst EDO DRAM
+- **BER**: bit error rate or beyond economical repair
+- **BERT**: bit error rate tester or bit error rate test
+- **BF**: Battlefield or boy friend
+- **BG**: background, bad game, battleground or big grin
+- **BGA**: ball grid array
+- **BGMP**: Border Gateway Multicast Protocol
+- **BGP**: Border Gateway Protocol
+- **BHO**: Browser Helper Object
+- **Bi-di**: bidirectional
+- **BIND**: Berkeley Internet Name Domain
+- **BIO**: biography
+- **BIOS**: basic input/output system
+- **BISYNC**: BinarySynchronous Communications
+- **Bit**: binary digit
+- **BITNET**: because it's time network
+- **BIU**: bold, italic, underline
+- **BNC**: Bayonet Neill-Concelman
+- **BO**: back orifice
+- **BOE**: bind on equip
+- **BOFH**: Bastard Operator From Hell
+- **BOINC**: Berkeley Open Infrastructure for Network Computing
+- **BOM**: byte order mark, bill of materials, beginning of message, or beginning of medium
+- **Bool**: Boolean
+- **BOP**: bind on pickup
+- **BPB**: BIOS pattern block
+- **BPDU**: Bridge Protocol Data Unit
+- **BPL**: broadband-over-powerline
+- **bps**: bits per second
+- **Bps**: bytes per second
+- **BPSK**: biphase shift keying
+- **Br**: Break or battle royale
+- **BRI**: basic rate interface
+- **Brouter**: bridge router
+- **BSB**: back-side bus
+- **BSC**: Binary Synchronous Communications
+- **BSoD**: Blue Screen of Death
+- **BSoD**: Black Screen of Death
+- **BSS**: basic service set
+- **BTC**: bitcoin or Behavior Tech Computers
+- **BTDT**: been there done that
+- **BTX**: Balanced Technology eXtended
+
 ## C
+
+- **C**: Celsius
+- **C2**: Core 2
+- **CA**: certificate authority
+- **Cab**: Cabinet file
+- **CAD**: computer-aided design
+- **CAP**: Competitive Access Provider
+- **CAPS**: CapsLock
+- **CAPSLK**: CapsLock
+- **CAPTCHA**: Completely Automated Public Turing test to tell Computers and Humans Apart
+- **CAS**: column address select or column access strobe
+- **CASC**: Certificate Authority Security Council
+- **CAT**: Central Africa Time
+- **CATV**: Cable TV or Community Access Television
+- **CB**: call back, chat brat, or closed beta
+- **CBL**: calculator based labs
+- **CBT**: computer-based training
+- **CC**: carbon copy, C compiler, Creative Commons, or Cursor control
+- **CCC**: Catalyst Control Center
+- **CCD**: charge-coupled device
+- **CCDE**: Cisco Certified Design Expert
+- **CCFL**: cold cathode fluorescent lighting
+- **CCIE**: Cisco Certified Internetworking Expert
+- **CCITT**: Comit Consultatif International Tlphonique et Tlgraphique
+- **CCNA**: Cisco Certified Network Associate
+- **CCNP**: Cisco Certified Network Professional
+- **CCS**: call-control signaling or common command set
+- **CCTV**: closed circuit television
+- **CCW**: counterclockwise
+- **CD**: change directory or compact disc
+- **CDA**: Communication Decency Act or compact audio disc
+- **CDDA**: compact disc digital audio
+- **CDDB**: compact disc database
+- **CDDI**: Copper Distributed Data Interface
+- **CDE**: Common Desktop Environment
+- **CDfs**: Compact Disc file system
+- **CD-i**: Compact Disc Interactive
+- **CDMA**: Code Division Multiple Access
+- **CDN**: content delivery network or content distribution network
+- **CDP**: Cache Discovery Protocol, Certificate in Data Processing, Columbia Data Products, content delivery platform, content discovery platform, or continuous data protection
+- **CD-PROM**: Compact Disc-Programmable ROM
+- **CD-R**: Compact Disc Recordable
+- **CDRFS**: CD-R file system
+- **CD-ROM**: Compact Disc Read-Only Memory
+- **CD-ROM XA**: CD-ROM extended architecture
+- **CD-RW**: Compact Disc Re-Writable
+- **CDSL**: Consumer DSL
+- **CD-WO**: Compact Disc Write Once
+- **CE**: collector's edition, cancel entry, compact edition, or consumer edition
+- **Cell phone**: cellular telephone
+- **CentOS**: Community Enterprise Operating System
+- **CEO**: chief executive officer
+- **CERN**: Conseil Europeen pour la Recherche Nuclaire
+- **CERT**: Computer Emergency Response Team, or certified
+- **Cert**: certificate, certified, or certification
+- **CES**: Consumer Electronics Show
+- **CF**: CompactFlash
+- **CFPM**: cubic feet per minute
+- **CGA**: Color Graphics Adapter
+- **CGI**: common gateway interface or computer-generated imagery
+- **CH**: Computer Hope or College Humor
+- **CHAP**: Challenge-Handshake Authentication Protocol
+- **Char**: character
+- **chdir**: change directory
+- **CHS**: cylinder-head-sector
+- **cHTML**: compact HTML
+- **CIDR**: classless inter-domain routing
+- **CIFS**: common Internet file system
+- **CIM**: common information model
+- **CIR**: committed information rate
+- **CISC**: complex instruction set computer
+- **CISSP**: certified information systems security professional
+- **CLCC**: ceramic leadless lead carrier
+- **CLI**: command-line interface
+- **CLNS**: connectionless network service
+- **CLOS**: Common Lisp object system
+- **CLR**: common language runtime
+- **CLSID**: class ID
+- **CLUT**: color lookup table
+- **CMA**: Computer Misuse Act
+- **CMC**: computer-mediated communication
+- **CMOS**: complementary metal-oxide semiconductor
+- **CMS**: content management system
+- **CMYK**: cyan magenta yellow black
+- **CNCT**: Certified Network Computer Technician
+- **CNE**: Certified Novell Engineer
+- **CNR**: Communication and Network Riser
+- **CNST**: Certified Network Systems Technician
+- **CO**: central office
+- **COA**: Certificate of Authenticity
+- **COAST**: Cache On A STick
+- **COB**: close of business, chip on board
+- **COBOL**: Common Business Oriented Language
+- **COD**: Call of Duty, cash on delivery, click of death
+- **Code**: source code
+- **Codec**: COmpression / DECompression
+- **Coil**: electromagnetic coil
+- **COLA**: comp.os.linux.announce
+- **COM**: Component Object Model or Computer Output Microfilm
+- **COMDEX**: Computer Dealers' Exhibition
+- **CompTIA**: Computer Technology Industry Association
+- **Con**: console, confidence, or conference
+- **COPPA**: Children's Online Privacy Protection Act or California Online Privacy Protection Act
+- **Core**: core dump
+- **CPA**: cost per action or cost per acquisition
+- **CPAN**: comprehensive Perl archive network
+- **CPC**: cost per click
+- **CPGA**: ceramic pin grid array
+- **CPI**: characters per inch
+- **CPL**: Combined Programming Language
+- **CPM**: cost per thousand or cost per mile
+- **CPS**: characters per second
+- **CPTM**: cost per targeted thousand
+- **CPU**: central processing unit
+- **CR**: carriage return
+- **CRC**: cyclic redundancy check
+- **CREN**: Corporation for Research and Educational Networking
+- **C-RIMM**: continuity RIMM
+- **CRL**: Certificate Revocation List
+- **CR/LF**: carriage return/line feed
+- **CRM**: customer relationship management
+- **CRT**: cathode ray tube
+- **Crypto**: cryptography or cryptocurrency
+- **CS**: customer service, computer science, counter-strike, cable select, or code segment
+- **CSMA/CD**: carrier sense multiple access/collision detection
+- **CSNET**: Computer Science Network
+- **CSS**: cascading style sheets, Content Scramble System, chirp spread spectrum
+- **CST**: Computer Service Technician
+- **CSU/DSU**: Channel Service Unit/Data Service Unit
+- **CSV**: comma-separated values
+- **CTA**: call to action
+- **CTCP**: client-to-client protocol
+- **CTD**: crash to desktop
+- **CTF**: Capture the Flag
+- **CTO**: technology officer or chief technical officer
+- **CTR**: click-through rate
+- **Ctrl**: Control key
+- **CTS**: Clear to Send
+- **CTTY**: change teletype
+- **CU**: control unit
+- **CUI**: character user interface or command-line user interface
+- **CUPS**: Common Unix Printing System
+- **Curmbox**: Current Mailbox
+- **CUT**: Coordinated Universal Time
+- **CVE**: Common Vulnerabilities and Exposures
+- **CVS**: Concurrent Version System
+- **CWIS**: Campus Wide Information System
 
 ## D
 
+- **D**: depth
+- **D2D**: disk-to-disk
+- **DAC**: digital-to-analog converter or discretionary access control
+- **DACL**: discretionary access control list
+- **DAE**: digital audio extraction, does anyone else
+- **DARPA**: Defense Advanced Research Projects Agency
+- **DART**: Data Access in Real Time, Dynamic Analysis and Replanning Tool, or Microsoft Diagnostics and Recovery Toolse
+- **DASD**: direct access storage device
+- **DASP**: Disk Anti-Shock Protection, Drive Active Slave Present, or Dynamic Adaptive Speculative Pre-Processor
+- **DAT**: Digital Audio Tape
+- **DAW**: digital audio workstation
+- **DB**: database
+- **DBA**: database administrator, database analyst, decibels adjust, or doing business as
+- **DBAN**: Darik's Boot and Nuke
+- **DBMS**: database management system
+- **DC**: direct current, domain controller, data center, or disconnect
+- **DCC**: Direct Client-to-Client
+- **DCE**: data circuit-terminating equipment, data communication equipment, Desktop Composting Engine, or distributed computing environment
+- **DCIM**: digital camera images
+- **DCOM**: Distributed Component Object Model
+- **DD**: double density or don't die
+- **DDBMS**: distributed database management system
+- **DDE**: Dynamic Data Exchange
+- **DDK**: driver development kit
+- **DDL**: data definition language
+- **DDNS**: dynamic DNS
+- **DDO**: disk drive overlay or Dungeons & Dragons Online
+- **DDoS**: Distributed Denial of Service
+- **DDP**: Datagram Delivery Protocol
+- **DDR**: double data rate, dial-on-demand routing, or Dance Dance Revolution
+- **DDR2**: double data rate two
+- **DDR3**: double data rate three
+- **DDR4**: double data rate four
+- **DDR SDRAM**: double data rate synchronous dynamic random access memory
+- **DDS**: Digital Data Storage
+- **DEA**: Data Encryption Algorithm
+- **DEC**: Digital Equipment Corporation
+- **DES**: Data Encryption Standard
+- **DFMC**: direct methanol fuel cell
+- **DHCP**: Dynamic Host Configuration Protocol
+- **DHTML**: dynamic Hypertext Markup Language
+- **DID**: direct inward dialing
+- **DIF**: Directory Interchange Format
+- **DIME**: direct Internet message encapsulation
+- **DIMM**: dual in-line memory module
+- **DIP**: dual in-line package
+- **DIVX**: digital video express
+- **DIX**: Digitial, Intel, and Xerox
+- **DJ**: disc jockey
+- **DL**: download or down low
+- **D/L**: download
+- **DLA**: drive letter access
+- **DLC**: Data Link Control, digital loop carrier, or downloadable content
+- **DLL**: dynamic-link library
+- **DLNA**: Digital Living Network Alliance
+- **DLP**: data loss prevention, data level parallelism, discrete logarithm problem, or Digital Light Processing
+- **DLT**: digital linear tape
+- **DM**: direct message, Device Manager, or deathmatch
+- **DMA**: direct memory access
+- **DMAC**: Direct Memory Access Control
+- **DMAR**: destination memory address register
+- **DMCA**: Digital Millennium Copyright Act
+- **DMI**: Desktop Management Interface
+- **DML**: data manipulation language
+- **DMTF**: Distributed Management Task Force
+- **DMZ**: demilitarized zone
+- **DNS**: Domain Name System
+- **DOA**: dead on arrival
+- **DoCoMo**: Do Communications Over Mobile
+- **DOD**: Department of Defense
+- **DoS**: denial of service
+- **DOS**: disk operating system
+- **DoT**: damage over time
+- **Double**: Double-precision floating-point
+- **DP**: DisplayPort
+- **DPI**: dots per inch
+- **Dpkg**: Debian package manager
+- **DPMI**: DOS Protected Mode Interface
+- **DPMS**: display power management system
+- **DPS**: damage per second
+- **DRAM**: dynamic random access memory
+- **DRM**: digital rights management
+- **Drop**: malware dropper
+- **DRQ**: data request
+- **DS**: drive select
+- **DSAP**: Destination Service Access Point
+- **DSL**: digital subscriber line or Damn Small Linux
+- **DSO**: data source object
+- **DSP**: digital signal processor or drive secondary present
+- **DSR**: Dynamic Source Routing or Dell System Restore
+- **DSS**: Digital Satellite Service or Digital Signature Standard
+- **DSVD**: Digital Simultaneous Voice and Data
+- **DTE**: data terminal equipment or data terminating equipment
+- **DTR**: Data Terminal Ready
+- **DTS**: digital thermal sensor, Digital Theater Sound, or data transformation services
+- **DTX**: discontinuous transmission
+- **DUN**: Dial-Up Networking
+- **DUST**: did you see that
+- **DUT**: device under test
+- **DVD**: digital versatile disc
+- **DVI**: digital visual interface
+- **DVMT**: Dynamic Video Memory Technology
+- **DVR**: Digital Video Recorder
+- **Dword**: double word
+- **DxDiag**: DirectX diagnostics
+
 ## E
+
+- **E**: Enlightenment
+- **E-911**: Enhanced 911
+- **E3**: Electronic Entertainment Expo
+- **EA**: Electronic Arts
+- **EAI**: enterprise application integration
+- **EAP**: Extensible Authentication Protocol
+- **EAP-FAST**: Flexible Authentication via Secure Tunneling
+- **EAPROM**: Electronically Alterable Programmable Read-Only Memory
+- **Eb/EB**: Exabit / Exabyte
+- **EBCDIC**: Extended Binary Coded Decimal Interchange Code
+- **E-Book**: electronic book
+- **ECC**: error-correcting code
+- **ECDSA**: Elliptic Curve Digital Signature Algorithm
+- **ECHS**: extended cylinder-head-sector
+- **ECMA**: European Computer Manufacturers Association
+- **ECP**: Extended Capabilities Port
+- **EDA**: electronic design automation
+- **EDI**: electronic data interchange
+- **EDIINT**: electronic data interchange-Internet integration
+- **EDO**: Extended Data Out
+- **EDP**: electronic data processing
+- **EDSAC**: Electronic Delay Storage Automatic Calculator
+- **EDVAC**: Electronic Discrete Variable Automatic Computer
+- **EEPROM**: electrically erasable programmable read-only memory
+- **EFI**: Extensible Firmware Interface
+- **EFS**: Encrypting File System
+- **EGA**: Enhanced Graphics Adapter
+- **eGPU**: external graphics processing unit
+- **EHCI**: enhanced host controller interface
+- **EHR**: Electronic Health Record
+- **EIA**: Electronic Industries Alliance
+- **EIDE**: enhanced integrated drive electronics
+- **EIGRP**: Enhanced Interior Gateway Routing Protocol
+- **EISA**: Extended Industry Standard Architecture or Extended ISA
+- **EIST**: enhanced Intel SpeedStep technology
+- **ELD**: electroluminescent display
+- **E-Learning**: electronic learning
+- **ELF**: extremely low frequency
+- **EM**: emphasized
+- **E-Mail**: electronic mail
+- **EMF**: electromotive force or enhanced metafile
+- **EMI**: electromagnetic interference
+- **EMM**: expanded-memory manager
+- **EMR**: Electromagnetic radiation or electronic medical record
+- **EMS**: emergency management services or expanded memory specification
+- **ENIAC**: Electronic Numerical Integrator and Calculator
+- **EOD**: end of day or end of discussion
+- **EOF**: end-of-file
+- **EOL**: end of life or End-of-Line
+- **EOM**: end-of-message
+- **EOP**: end-of-page
+- **EOT**: End-of-Transmission or end of topic
+- **EOW**: end of week
+- **EPD**: electronic paper display
+- **EPIC**: Electronic Privacy Information Center
+- **EPP**: Enhanced Parallel Port
+- **EPROM**: Erasable Programmable Read-Only Memory
+- **EPS**: encapsulated PostScript
+- **ePUB**: electronic publication
+- **EQ**: equals, equalizer, or EverQuest
+- **ESA**: Entertainment Software Association
+- **ESCD**: Extended System Configuration Data
+- **ESD**: electrostatic discharge
+- **ESDI**: Enhanced Small Disk Interface
+- **ESI**: Enhanced Serial Interface
+- **ESP**: e-mail server provider
+- **ESRB**: Entertainment Software Rating Board
+- **ETA**: estimated time of arrival
+- **ETA-I**: Electronic Technicians Association International
+- **ETX**: End-of-Text
+- **EULA**: End-User License Agreement
+- **Eval**: evaluate
+- **EVD**: enhanced versatile disc
+- **EV-DO**:Evolution-Data Optimized or Evolution-Data Only
+- **EVP**: enhanced virus protection
+- **exFAT**: Extended File Allocation Table
 
 ## F
 
+- **F**: fahrenheit
+- **F2P**: free-to-play
+- **FAD**: functioning as designed
+- **Famicom**: family computer
+- **FAQ**: frequently asked questions
+- **FAST**: Flexible Authentication via Secure Tunneling
+- **FAT**: file allocation table
+- **FAU**: file allocation unit
+- **Fav**: favorite
+- **FB**: facebook or frame buffer
+- **FCC**: Federal Communications Commission
+- **FCIP**: Fibre Channel over IP
+- **FC-PGA**: flip-chip pin grid array
+- **FD**: floppy drive or file descriptor
+- **FDC**: Floppy Disk Controller
+- **FDD**: floppy disk drive
+- **FDDI**: Fiber Distributed Data Interface
+- **FDHP**: Full Duplex Handshaking Protocol
+- **Feat**: feature
+- **FF**: Firefox, fast forward, form feed, or friends forever
+- **FFA**: free for all
+- **FFS**: For F***'s Sake, freefall sensor
+- **FHD**: Full High Definition
+- **FIF**: fractal image format
+- **FIFO**: first in, first out
+- **FiOS**: Fiber Optic Service
+- **FIPS**: Federal Information Processing Standards
+- **Fixed**: fixed-point
+- **FLAC**: Free Lossless Audio Codec
+- **Flash**: Adobe Flash
+- **Float**: floating-point
+- **FLOPS**: Floating-Point Operation Per Second
+- **FM**: frequency modulation
+- **FMV**: full motion video
+- **Fn**: function
+- **FNBN**: for nerds by nerds
+- **FNEA**: full name and e-mail address
+- **FNR**: format and restore
+- **FOAD**: fu** off and die
+- **FOIA**: Freedom of Information Act
+- **FOIRL**: fiber-optic inter-repeater links
+- **FOMO**: fear of missing out
+- **FORTRAN**: Formula Translation
+- **FOSS**: free and open-source software
+- **FP**: fast page or FrontPage
+- **FPGA**: field-programmable gate array
+- **FPM**: fast page mode
+- **FPROM**: field programmable read-only memory
+- **FPS**: frames per second or first-person shooter
+- **FPU**: floating-point unit
+- **FQDN**: fully qualified domain name
+- **FR**: Frame Relay
+- **FRAM**: Ferroelectric RAM
+- **FRU**: field-replacable unit
+- **FS**: file system
+- **FSB**: front-side bus
+- **Fsck**: file system check
+- **FSM**: female seeking male
+- **FSO**: free-space optical communication
+- **FSP**: File Sharing Protocol
+- **Fstab**: file systems table
+- **FSTN**: film supertwist nematic
+- **Fstype**: file system type
+- **FTAM**: file transfer, access and management
+- **FTC**: Federal Trade Commission
+- **FTP**: File Transfer Protocol
+- **FU**: fu** you
+- **FUBAR**: f***ed up beyond all repair, fouled up beyond all recognition, or fouled up beyond all repair
+- **FUD**: fear, uncertainty, and doubt
+- **FWH**: Firmware Hub
+- **FYI**: for your information
+
 ## G
+
+- **G+**: Google Plus
+- **G2G**: Good to go, Got to go, or government to government
+- **GA**: general availabililty
+- **GaAs**: Gallium Arsenide
+- **Gb/GB**: gigabit / gigabyte
+- **GBIC**: gigabit interface converter
+- **Gbps**: Gigabits per second
+- **GCC**: GNU Compiler Collection
+- **GCHQ**: Government Communications Headquarters
+- **GCR**: group code recording
+- **GDDR**: graphics double data rate
+- **GDI**: Graphics Device Interface
+- **GDPR**: General Data Protection Regulation
+- **GE**: General Electric or "greater than or equal to"
+- **GEM**: Graphics Environment Manager
+- **GF**: GeForce
+- **GFM**: GitHub Flavored Markdown
+- **GFS**: Global File System or Google File System
+- **GHz**: Gigahertz
+- **Gib/GiB**: gibibit / gibibyte
+- **GIGO**: "garbage in, garbage out"
+- **GIMP**: GNU image manipulation program
+- **GIMPS**: great Internet mersenne prime search
+- **GIS**: Geographic Information System
+- **GIYF**: Google Is Your Friend
+- **GKS**: Graphical Kernel System
+- **GM**: game masters, gold master, golden masters, good morning, or good manners
+- **Gmail**: Google Mail
+- **GNU**: GNU's Not Unix
+- **Goat**: greatest of all time
+- **GPF**: general protection fault
+- **GPG**: GNU Privacy Guard
+- **GPL**: general public license
+- **GPO**: Group Policy Object
+- **GPPM**: graphic pages per minute
+- **GPRS**: General Packet Radio Service
+- **GPS**: Global Positioning System
+- **GPT**: GUID partition table
+- **GPU**: graphics processing unit
+- **Gram**: Instagram
+- **Gravatar**: globally recognized avatar
+- **GRUB**: GRand Unified Bootloader
+- **GSM**: Global System for Mobile communication
+- **GT**: Greater than or Greenwich Mean Time
+- **GTA**: Grand Theft Auto
+- **GTK**: GIMP toolkit
+- **GTM**: Google Tag Manager
+- **GUI**: graphical user interface
+- **GUID**: globally unique identifier
+- **GWAM**: gross words a minute
+- **Gzip**: GNU zip
 
 ## H
 
+- **H**: height
+- **HACMP**: high availability cluster multiprocessing
+- **HAL**: hardware abstraction layer
+- **HAN**: home area network
+- **HBA**: host bus adapter
+- **HCI**: human computer interface
+- **HCL**: hardware compatibility list
+- **HD**: hard drive, high-definition, or high-density
+- **HDC**: hard disk controller
+- **HDCP**: High-bandwidth Digital Content Protection
+- **HDD**: hard disk drive
+- **HD-DVD**: High Definition Digital Versatile Disc
+- **HDLC**: High-level Data Link Control
+- **HDMI**: High-Definition Multimedia Interface
+- **HDML**: handheld device markup language
+- **HD-ROM**: high-density read-only memory
+- **HDSL**: high-bit-rate digital subscriber line
+- **HDTV**: high-definition TV
+- **HEIF**: High Efficiency Image File format
+- **HES**: hypertext editing system
+- **HEVC**: high efficiency video coding
+- **HFC**: hybrid fiber coax
+- **HFS**: hierarchical file system
+- **HGA**: Hercules graphics adapter
+- **HID**: human interface device
+- **Hiew**: hacker's view
+- **Hi-Res**:high resolution
+- **HIT**: human intelligence task
+- **HLL**: high-level language
+- **HMA**: high-memory area
+- **HMU**: hit me up
+- **HOP**: half OP
+- **HOPE**: hackers on planet Earth
+- **HoT**: Heal over Time
+- **HP**: Hewlett-Packard or Hit Points
+- **HPA**: high-performance addressing or hidden protected area
+- **HPD**: hybrid passive display
+- **HPFS**: high-performance file system
+- **HPGL**: Hewlett Packard Graphic Language
+- **HP-UX**:Hewlett Packard UniX
+- **HQ**: high-quality
+- **HR**: Human Resources
+- **HREF**: Hypertext reference
+- **HSB**: Hue, Saturation, and Brightness
+- **HSF**: heat sink and fan
+- **HSL**: Hue, Saturation, and Lightness
+- **HSSI**: High-Speed Serial Interface
+- **HSYNC**: Horizontal Synchronization
+- **HT**: Hyper-Threading or HyperTransport
+- **HTML**: Hypertext Markup Language
+- **HTPC**: home theater personal computer
+- **HTTP**: Hypertext Transfer Protocol
+- **HUD**: heads up display
+- **Huh**: Have you heard
+- **HW**: hardware
+- **Hz**: Hertz
+
 ## I
+
+- **IA-32**: Intel Architecture 32
+- **IA-64**: Intel Architecture 64
+- **IAB**: Internet Architecture Board
+- **IAC**: In Any Case or Interapplication communications
+- **IAD**: integrated access device
+- **IANA**: Internet Assigned Numbers Authority
+- **IAP**: Internet access provider
+- **IBG**: interblock gap
+- **ICA**: independent computing architecture, or integrated communications adapter
+- **Icacl**: Integrity control access control list
+- **ICANN**: Internet Corporation for Assigned Names and Numbers
+- **ICCCM**: Inter-Client Communication Conventions Manual
+- **ICCP**: Institute for Certification of Computer Professionals
+- **ICMP**: Internet Control Message Protocol
+- **ICO**: icon or Initial Coin Offering
+- **iCOMP**: Intel comparative microprocessor performance
+- **ICRA**: Internet Content Rating Association
+- **ICS**: Internet Connection Sharing
+- **ICT**: information and communications technology or International Computers and Tabulators
+- **ICU**: instruction cache unit, interface converter unit, ISA configuration utility, or interactive chart utility
+- **IDC**: insulation displacement contact or insulation displacement connector
+- **IDE**: integrated development environment or integrated device electronics
+- **IDEA**: International Data Encryption Algorithm
+- **IDMS**: Integrated Database Management System
+- **IDPS**: intrusion detection prevention system
+- **IDS**: intrusion detection system
+- **IDSL**: integrated services digital network digital subscriber line
+- **IE**: Internet Explorer
+- **IEC**: International Electrotechnical Commision
+- **IEEE**: Institute of Electrical and Electronics Engineers
+- **IEN**: Internet Experiment Note, Internet Engineering Notes, or Image-Enabled Netware
+- **IETF**: Internet engineering task force
+- **IF**: interactive fiction
+- **IFIP**: International Federation for Information Processing
+- **IFTF**: Interactive Fiction Technology Foundation
+- **IG**: Instagram, in game, I guess, ignore, or ignorant
+- **IGES**: Initial Graphics Exchange Specification
+- **IGMP**: Internet Group Management Protocol
+- **IGP**: Interior Gateway Protocol
+- **IHA**: Intel Hub Architecture
+- **IIL**: integrated injection logic
+- **IIS**: Internet Information Server
+- **IM**: instant message, instant messenger, or instant messaging
+- **IMAP**: Internet Message Access Protocol
+- **IMDb**: Internet Movie Database
+- **IMEI**: International Mobile Equipment Identity
+- **IMSI**: International Mobile Subscriber Identity
+- **INC**: incorporated, or incoming
+- **INCITS**: International Committee for Information Technology Standards
+- **Inetd**: Internet service daemon
+- **Info**: information
+- **Inode**: index node
+- **Int**: integer
+- **INTA**: INTernational Trademark Association or INTerrupt Acknowledge
+- **INTR**: interrupt
+- **I/O**: input/output
+- **IOC**: input/output controller
+- **IOCCC**: Internet Obfuscated C Code Contest
+- **IOPS**: input/output operations per second
+- **IOS**: Input/Output Supervisor or Internetworking operating system
+- **IP**: Internet Protocol, ingress protection, intellectual property
+- **IPB**: illustrated parts breakdown
+- **IPC**: interprocess communication, instructions per cycle
+- **IPD**: interpupillary distance
+- **IPF**: invalid page fault
+- **IPL**: initial program load
+- **IPng**: Internet Protocol next generation
+- **IPOS**: input, processing, output, and storage or IP over Satellite
+- **IP Rating**: Ingress Protection Rating
+- **IPS**: intrusion prevention system
+- **IPsec**: Internet Protocol security
+- **IPTO**: Information Processing Technology Office
+- **IPTV**: Internet Protocol television
+- **IPv4**: Internet Protocol version 4
+- **IPv6**: Internet Protocol version 6
+- **IPX/SPX**: Internetwork Packet Exchange/Sequenced Packet Exchange
+- **IR**: infrared, or information retrieval
+- **IRC**: Internet Relay Chat
+- **IrDA**: Infrared Data Association
+- **IRG**: interrecord gap
+- **IRGB**: Intensity-Red-Green-Blue
+- **IRL**: in real-life
+- **IRQ**: interrupt request
+- **IS**: image stabilization, Information Services, or Information Systems
+- **ISA**: Industry Standard Architecture
+- **ISACA**: Information System Audit and Control Association
+- **ISAM**: indexed sequential access method
+- **ISAPI**: Internet Server Application Programming Interface
+- **ISATAP**: Intra-Site Automatic Tunnel Addressing Protocol
+- **ISBN**: International Standard Book Number
+- **ISDN**: Integrated Services Digital Network
+- **ISIS**: Image and Scanner Interface Specification, infinitely scalable intelligent storage, or integrated software for imagers and spectrometers
+- **ISO**: International Organization for Standardization
+- **ISP**: Internet service provider
+- **ISV**: independent software vendor
+- **IT**: information technology
+- **ITC**: International Typeface Corporation
+- **ITIL**: Information Technology Infrastructure Library
+- **ITU**: International Telecommunication Union
+- **ITX**: Information Technology eXtended
 
 ## J
 
+- **JAR**: Java archive
+- **Java EE**: Java Platform, Enterprise Edition
+- **JCL**: job control language
+- **JDBC**: Java Database Connectivity
+- **JDK**: Java Development Kit
+- **JEDEC**: Joint Electron Device Engineering Council
+- **JHTML**: Java within HTML
+- **JIL**: Java Intermediate Language or Joint Innovation Lab
+- **JIT**: just-in-time
+- **JNI**: Java Native Interface
+- **JPEG**: Joint Photographic Experts Group
+- **JRE**: Java Runtime Environment
+- **JSON**: JavaScript Object Notation
+- **JSP**: JavaServer Pages
+- **JSR**: jump to subroutine
+- **JTAG**: Joint Test Action Group
+- **JVM**: Java virtual machine
+
 ## K
+
+- **K**: kilobit, OK
+- **kb / kbit**:  kilobit
+- **KB**: knowledge base
+- **Kbps**: kilobits per second
+- **KDE**: K Desktop Environment
+- **kHz**: kilohertz
+- **KiB**: kibibyte
+- **Kib**: kibibit
+- **kilo**: one thousand
+- **KOS**: kill on sight
+- **KVM**: keyboard, video, and mouse or Kernel-based Virtual Machine
 
 ## L
 
+- **L2**: level 2 cache
+- **L2P**: learn to play
+- **L2TP**: Layer 2 Tunneling Protocol
+- **LAME**: LAME ain't an MP3 encoder
+- **LAN**: local area network
+- **LAPM**: Link Access Procedure for Modems
+- **Laser**: light amplification by stimulated emission of radiation
+- **LAWN**: local area wireless network
+- **LBA**: large block addressing
+- **LBS**: location-based service
+- **LC**: lowercase
+- **LCC**: leadless chip carrier
+- **LCD**: liquid crystal display
+- **LD**: laserdisc
+- **LDAP**: Lightweight Directory Access Protocol
+- **LE**: Less than or Equal to
+- **LED**: light-emitting diode
+- **LF**: line feed
+- **LFAP**: Light-weight Flow Admission Protocol
+- **LFD**: Login Failure Daemon
+- **LFG**: looking for group
+- **LFM**: looking for more
+- **LFN**: long file name
+- **LG**: Life's Good
+- **LGA**: land grid array
+- **LGPL**: Lesser General Public License
+- **LH**: Loadhigh
+- **LIFO**: last in, first out
+- **Li-Ion**: lithium-ion
+- **LILO**: Last In Last Out or Linux loader
+- **Li-polymer**: lithium-polymer
+- **LIPS**: Linear Inferences Per Second or LInux Phone Standard
+- **Lisp**: List Processing
+- **LISTSERV**: list server
+- **LKGC**: last known good configuration
+- **LLC**: limited liability company or Logical Link Control
+- **LMK**: let me know
+- **LMS**: Learning Management System
+- **LNP**: local number portability
+- **LOD**: level of detail
+- **LOF**: loss of frame
+- **LOL**: laugh out loud, League of Legends, lots of love, or lots of luck
+- **Lo-res / low-res**: low-resolution
+- **LOS**: Line of Sight or Loss of signal
+- **LP**: long play
+- **LPB**: low ping b*^$#
+- **LPD**: line printer daemon
+- **LPI**: lines per inch
+- **LPM**: lines per minute
+- **LPS**: Library Programs Service
+- **LPT**: line printer terminal
+- **LPWAN**: low-power wide-area network
+- **LPX**: Low Profile eXtension
+- **LQ**: letter-quality
+- **LRC**: longitudinal redundancy check
+- **LRDIMM**: load-reduced dual inline memory module
+- **LRU**: line replaceable unit or least recently used
+- **LSB**: least significant bit
+- **LSB**: Linux Standard Base
+- **LSC**: least significant character
+- **LSD**: least significant digit
+- **LSP**: Layered Service Provider or link state packet
+- **LTE**: Long-Term Evolution
+- **LU**: logic unit or logical unit
+- **Luser**: Local user
+- **LUT**: lookup table
+- **lvl**: level
+- **LZ or Lzone**: Landing Zone
+
 ## M
+
+- **m**: milli
+- **M-**: meta key
+- **MAC**: media access control or Macintosh
+- **Macro**: macroinstruction
+- **MAE**: Metropolitan Area Ethernet
+- **mAH**: milliamp hour
+- **MAN**: manual or metropolitan area network
+- **MAPI**: Message Application Programming Interface
+- **MAPS**: Mail Abuse Prevention Systems
+- **MAR**: memory address register
+- **Matlab**: matrix laboratory
+- **Matrix**: Matrix code
+- **MAU**: media access unit
+- **Max**: maximize or maximum
+- **mb**: motherboard
+- **Mb**: megabit
+- **MB**: megabyte
+- **MBAM**: Malwarebytes
+- **MBean**: Managed Beans
+- **MBL**: microcomputer-based labs
+- **Mbps**: megabits per second
+- **MBps**: megabytes per second
+- **MBR**: master boot record
+- **MC**: megacycle
+- **MCA**: Micro Channel Architecture
+- **MCGA**: memory controller gate array or multicolor graphics array
+- **MCITP**: Microsoft Certified IT Professional
+- **MCSA**: Microsoft Certified Systems Administrator
+- **MCSE**: Microsoft Certified System Engineer
+- **MDA**: Monochrome Display Adapter
+- **MDBMS**: Multidimensional Database Management System
+- **MDC**: modification detection code
+- **MDF**: main distribution frame
+- **MDI**: multiple-document interface
+- **MDRAM**: Multibank DRAM
+- **Memo**: memorandum
+- **MFA**: multi-factor authentication
+- **Mflop**: megaflop
+- **MFM**: Modified Frequency Modulation
+- **MFP**: multifunction printer
+- **MFT**: Master File Table
+- **Mget**: multiple get
+- **MHz**: megahertz
+- **MIA**: missing in action
+- **Mib**: mebibit
+- **MiB**: mebibyte
+- **MIB**: management information base
+- **MICR**: magnetic ink character recognition
+- **Microsoft MVP**: Microsoft Most Valuable Professional
+- **MIDI**: Musical Instrument Digital Interface
+- **MIME**: Multipurpose Internet Mail Extension
+- **MIMO**: multiple-input, multiple-output
+- **Min**: minimum
+- **MIN**: mobile identification number
+- **MIPS**: millions of instructions per second
+- **MIR**: mail in rebate
+- **MIS**: management information system
+- **MIT**: Massachusetts Institute of Technology
+- **MITMA**: man-in-the-middle attack
+- **Mkdir**: make directory
+- **MLG**: Major League Gaming
+- **MMC**: MultiMediaCard or Microsoft Management Console
+- **MMI**: man machine interface
+- **MMORPG**: massively multiplayer online role-playing game
+- **MMS**: Multimedia Message Service
+- **MMU**: memory management unit
+- **MMX**: MultiMedia eXtension
+- **MNP**: Microcom Network Protocol
+- **Moblog**: mobile blog
+- **Mod**: modulo
+- **Model No.**: model number
+- **Modem**: modulator/demodulator
+- **MO diskette**: magneto-optical diskette
+- **Mofo**: Mozilla Foundation
+- **MOS**: metal-oxide-semiconductor
+- **MOSFET**: metal-oxide semiconductor field-effect transistor
+- **MOTD**: message of the day
+- **MOV**: Metal Oxide Varistor
+- **MP**: megapixel, multiplayer or mana point
+- **MPAA**: Motion Picture Association of America
+- **MPC**: Multimedia Personal Computer
+- **MPEG**: Moving Picture Experts Group
+- **MPI**: message passing interface
+- **MPLS**: Multiprotocol Label Switching
+- **MPP**: massively parallel processing
+- **Mput**: multiple put
+- **MRP**: Materials Requirement Planning
+- **MRU**: Maximum Receive Unit
+- **MRUD**: Most Recently Used Directory
+- **MS**: millisecond, Microsoft, or memory stick
+- **MSC**: Most Significant Character
+- **MSCS**: Microsoft Cluster Server
+- **MSD**: Microsoft Diagnostics or Most Significant Digit
+- **MSDN**: Microsoft Developer Network
+- **MS-DOS**: Microsoft Disk Operating System
+- **MSDS**: material safety data sheet
+- **MSE**: Microsoft Security Essentials
+- **MSF**: male seeking female
+- **MSN**: The Microsoft Network
+- **MSP**: Management Service Provider
+- **MSRP**: Manufacturer's Suggested Retail Price
+- **MSVC**: Microsoft Visual C++
+- **MT**: Moluccas or mistell
+- **MTA**: mail transfer agent or message transfer agent
+- **MTBF**: mean time between failure
+- **MTU**: maximum transmission unit
+- **MUD**: multi-user dungeon
+- **MUI**: multi-user interface
+- **MUT**: Mauritius Time or MultiUser Talk
+- **Mutex**: mutual exclusion object
+- **MVNO**: mobile virtual network operator
+- **MVP**: most valuable player
+- **MVS**: multiple virtual storage
+- **MX record**: Mail eXchange record
 
 ## N
 
+- **N**: nano
+- **N/A**: not applicable or not available
+- **NA**: North American, not applicable, or not available
+- **NAK**: negative acknowledgment
+- **NaN**: not a number
+- **NAS**: network access server or network-attached storage
+- **NAT**: Network Address Translation
+- **NCP**: NetWare Core Protocol or Network Control Protocol
+- **NCSA**: National Center for Supercomputing Applications
+- **NCSC**: National Cybersecurity Center
+- **NDA**: non-disclosure agreement
+- **NDAS**: Network Direct Attached Storage
+- **NDIS**: network driver interface specification
+- **NDR**: non-destructive readout, network data representation, or non-active, dormant, to be removed
+- **NDRO**: non-destructive readout
+- **ne**: not equal
+- **NEC**: Nippon Electronics Company or National Electrical Code
+- **NEM**: New Economic Movement
+- **Net**: network
+- **NetBEUI**: NetBIOS Enhanced User Interface
+- **NetBIOS**: Network Basic Input/Output System
+- **NFC**: near-field communication
+- **NFR**: Not For Resell
+- **NFS**: network file system
+- **NFT**: non-fungible token
+- **NG**: newsgroup
+- **NGL**: not gonna lie
+- **NIC**: network interface card
+- **NIDS**: network intrusion detection system
+- **NII**: National Information Infrastructure
+- **NiMH**: nickel-metal hydride
+- **Nimrod**: National Institute Machine Radiating On Downs
+- **NIP**: non-impact printer
+- **NIT**: Network Information Table or Network Interface Tap
+- **NLP**: natural language processing
+- **NLQ**: near letter-quality
+- **NLS**: online system
+- **NLX**: New Low Profile Extended
+- **nm**: nanometer
+- **NMI**: nonmaskable interrupt
+- **NMS**: network management system
+- **NN**: NOT NULL
+- **NNTP**: Network News Transfer Protocol
+- **NOBUS**: Nobody But Us
+- **NO-OP**: no operatation
+- **NOR**: Not-Or
+- **NOS**: network operating system
+- **NPAPI**: Netscape Plugin Application Programming Interface
+- **NPC**: non-playable character, non-printing character, or NP-Complete
+- **NRZ**: non-return-to-zero
+- **ns**: nanosecond, nice shot, or not sure
+- **NSAP**: Network Service Access Point
+- **NSFNET**: National Science Foundation Network
+- **NSP**: Name Server Protocol, network service provider, or news service provider
+- **NSPA**: Network Service Point Address
+- **NSSN**: National Standards Systems Network
+- **NTFS**: NTFS file system
+- **NTLDR**: NT loader
+- **NTP**: Network Time Protocol
+- **NTSC**: National Television System Committee
+- **NTWY**: noteworthy
+- **NUC**: Next Unit of Computing
+- **Num**: number
+- **NVRAM**: non-volatile random-access memory
+- **NWAM**: Network Auto Magic
+
 ## O
+
+- **OA**: office automation
+- **OB**: open beta or Open Broadcaster
+- **OBJ**: object
+- **OC**: optical carrier or overclock
+- **OCR**: optical character recognition or optical character reader
+- **OCTAVE**: operationally critical threat, asset, and vulnerability evaluation
+- **ODBC**: Open Database Connectivity
+- **ODI**: Open Data-Link Interface
+- **ODP**: OverDrive Processor
+- **ODPR**: OverDrive Processor Replacement
+- **OEM**: original equipment manufacturer
+- **OHCI**: Open Host Controller Inferface
+- **OID**: object identifier
+- **OIN**: Open Invention Network
+- **OLAP**: online analytical processing
+- **OLE**: Object Linking and Embedding or OnLine English
+- **OLED**: organic light-emitting diode
+- **OLPC**: one laptop per child
+- **OLTP**: online transaction processing
+- **OMR**: optical mark reading
+- **OO**: object-oriented or OpenOffice
+- **OOF**: out of office
+- **OOP**: object-oriented programming
+- **OP**: operation, operator, opinion, original poster, or overpowered
+- **Open**: open source
+- **OpenAL**: Open Audio Library
+- **OpenGL**: Open Graphics Library
+- **OR**: OR operator or operation research
+- **OS**: operating system
+- **OSD**: on-screen display, object-based storage device, or open source definition
+- **OSF**: Open Software Foundation
+- **OSHA**: Occupational Safety and Health Administration
+- **OSI**: Open Systems Interconnection or Open-Source Initiative
+- **OSK**: on-screen keyboard
+- **OSPF**: open shortest path first
+- **OSRI**: operating system reinstall
+- **OSS**: open-source software or operations support systems
+- **OTP**: on the phone, one-time password, or one-time programmable
+- **OVR**: overtype mode
 
 ## P
 
+- **P2W**: pay-to-win
+- **PaaS**: Platform as a Service
+- **PAC**: proxy auto config
+- **PAD**: packet assembler/disassembler
+- **PAE**: Physical Address Extension
+- **PARC**: Palo Alto Research Center
+- **Parm**: parameter
+- **PATA**: Parallel AT Attachment
+- **Pb**: petabit
+- **PB**: Packard Bell or petabyte
+- **PBX**: private branch extension or private branch exchange
+- **PC**: personal computer or player character
+- **PCB**: printed circuit board
+- **PC-DOS**: Personal Computer Disk operating system
+- **PCI**: Peripheral Component Interconnect
+- **PCIe**: PCI Express
+- **PCI-E**: Peripheral Component Interconnect Extended
+- **PCL**: printer command language
+- **PCM**: pulse-code modulation
+- **PCMCIA**: Personal Computer Memory Card International Association
+- **P-Code**: pseudocode or packed code
+- **PCS**: personal communications service
+- **PDA**: personal digital assistant
+- **PDC**: Primary Domain Controller
+- **PDF**: Portable Document Format or Package Definition File
+- **PDL**: page-description layer
+- **PDoS**: permanent denial-of-service
+- **PDP**: Programmed Data Processor
+- **PDU**: protocol data unit
+- **PEAR**: PHP Extension and Application Repository
+- **PEGI**: Pan-European game information
+- **PEP**: Packet Ensemble Protocol
+- **Permalink**: permanent link
+- **PET**: Personal Electronic Transactor
+- **PGA**: pin grid array, Professional Graphics Adapter, or Professional Golf Association
+- **Pg Dn**: page down
+- **PGP**: Pretty Good Privacy
+- **Pg Up**: page up
+- **PHP**: PHP: Hypertext Preprocessor
+- **Pic**: picture
+- **PICNIC**: problem in chair not in computer
+- **PICO**: PIne COmposer
+- **PICS**: Platform for Internet Content Selection
+- **PID**: process identifier or product identification
+- **PIF**: program information file
+- **PII**: Pentium 2 or personally identifiable information
+- **PIIX**: PCI IDE Xcelerator
+- **PIM**: personal information management or Protocol Independent Multicast
+- **PIN**: personal identification number
+- **PIO**: programmed input/output
+- **PL**: power leveling
+- **PLCC**: plastic leaded chip carrier
+- **PLED**: Power LED
+- **Plus**: Microsoft Plus!
+- **PM**: private message, personal message, power management, Presentation Manager, preventive maintenance, post meridiem, or polarization maintaining
+- **P-Machine**: pseudomachine
+- **PMF**: polarization maintaining fiber
+- **PMS**: Pantone Matching System
+- **PN**: part number
+- **PNG**: Portable Network Graphics
+- **PnP**: Plug and Play or party and play
+- **POD**: plain old documentation or print on demand
+- **POE**: point of entry or Power over Ethernet
+- **POP**: Post Office Protocol or point of pressence
+- **PoS**: Proof-of-Stake
+- **POS**: packet over SONET, parent over shoulder, piece of s#!^, or point of sale
+- **POSIX**: Portable operating system interface for Unix
+- **POST**: power-on self-text
+- **POTS**: plain old telephone system
+- **POV**: point of view
+- **PoW**: Proof-of-Work
+- **PPC**: pay per click
+- **PPGA**: Plastic Pin Grid Array
+- **PPI**: pixels per inch
+- **PPM**: pages per minute or Perl package manager
+- **PPP**: Point-to-Point Protocol
+- **PPPoE**: Point-to-Point Protocol over Ethernet
+- **PPS**: Privacy Policy Statement
+- **PPT or PP**: PowerPoint
+- **PPTP**: Point-to-Point Tunnel Protocol
+- **PR**: Pagerank or press release
+- **PRAM**: Parameter RAM
+- **Printf**: print formatted
+- **PRISM**: Planning Tool for Resource Integration, Synchronization, and Management
+- **Privmsg**: Private Message
+- **PRN**: printer
+- **Proglog**: progress log
+- **Prolog**: Programming in Logic
+- **PROM**: programmable read-only memory
+- **PrtScrn or Prt Scrn**: Print Screen key
+- **PS**: power supply, PowerShell, or print screen
+- **PS/2**: Personal System/2
+- **PS2**: PlayStation 2
+- **PS3**: PlayStation 3
+- **PS4**: PlayStation 4
+- **PS5**: PlayStation 5
+- **PSAT**: Preliminary Scholastic Assessment Test
+- **PSD**: Photoshop Document
+- **PSoC**: programmable system on a chip
+- **PSP**: PlayStation Portable, Python Server Pages, Paint Shop Pro
+- **PSR**: Problem Steps Recorder
+- **PST**: Pacific Standard Time, please send tell, Personal Store
+- **PSTN**: public switched telephone network
+- **PSU**: power supply unit
+- **PTR**: Public Test Realm
+- **PTS**: pseudoterminal slave
+- **PTY**: pseudoterminal
+- **PU**: physical unit
+- **PUBG**: PlayerUnknown's Battlegrounds
+- **PUG**: pickup group
+- **PVE**: Player vs. Environment
+- **PVP**: Player vs. Player
+- **PVR**: personal video recorder
+- **PW**: password
+- **PWA**: progressive web application
+- **PWD**: print working directory or password
+- **PWS**: Personal Web Server
+- **Px**: pixel
+- **PXE**: preboot execution environment
+- **PXI**: PCI extensions for instrumentation
+
 ## Q
+
+- **Q&A**: questions and answers
+- **QA**: quality assurance
+- **QAM**: quadrature amplitude modulation
+- **QBE**: query by example
+- **QHD**: Quad High Definition
+- **QIC**: quarter-inch cartridge
+- **QLED**: quantum-dot light emitting diode
+- **QMAC**: Quad Media Access Controller
+- **QnA**: questions and answers
+- **QoS**: quality of service
+- **QPSK**: quadrature phase shift keying
+- **QQ**: quick question, quit
+- **QR Code**: Quick Response Code
+- **QSXGA**: Quad Super Extended Graphics Array
 
 ## R
 
+- **RAD**: rapid application development
+- **RADIUS**: Remote Authentication Dial-in User Servic
+- **RADSL**: rate-adaptive DSL
+- **RAID**: redundant array of independent disks
+- **RAM**: random access memory
+- **RAMAC**: random-access method of accounting and control
+- **RAP**: Route Access Protocol
+- **RAR**: Roshal Archive
+- **RARP**: Reverse Address Resolution Protoco
+- **RAS**: remote access server, Remote Access Service, row address select, or row access strobe
+- **RAT**: Remote Access Trojan
+- **RBAC**: role-based access control
+- **RBL**: real-time blackhole list
+- **RC**: release candidate, remote connection, remote control, or run commands
+- **RCE**: Remote Code Execution, Reverse Code Engineering, or Regional Coding Enhancement
+- **RCS**: revision control system
+- **RDBMS**: relational database management system
+- **RDF**: Resource Description Framework
+- **RDMS**: report distribution management system
+- **RDP**: Remote Desktop Protocol
+- **RDRAM**: Rambus Dynamic Random Access Memory
+- **Rec.**: receive
+- **REC**: Record
+- **ReFS**: Resilient File System
+- **Regex**: regular expression
+- **Rel**: release
+- **REM**: remark
+- **REPL**: read-eval-print loop
+- **RF**: radio frequency
+- **RFC**: Request for Comments
+- **RFI**: Radio Frequency Interference, request for information
+- **RFID**: radio frequency identification
+- **RF Shielding**: radio frequency shielding
+- **RGB**: red-green-blue
+- **RHCE**: Red Hat Certified Engineer
+- **RIAA**: Recording Industry Association of Americ
+- **RIP**: raster image processor, raster image process, or Routing Information Protocol
+- **RIPE Notes**: Reseaux IP Europeens notes
+- **RISC**: reduced instruction set computer
+- **RJ-45**: Registered Jack-45
+- **RL**: real-life
+- **RLE**: run-length encoding
+- **RLL Encoding**: run-length limited encoding
+- **RLP**: resource location protocol
+- **RMA**: return materials authorization
+- **RMS**: root mean square
+- **ROM**: read-only memory
+- **ROM BIOS**: read-only memory basic input/output system
+- **RO Terminal**: read-only terminal
+- **RP**: rating pending or role-playing
+- **RPC**: remote procedure call
+- **RPG**: role-playing game, report program generator, or raster pattern generator
+- **RPM**: revolutions per minute or Red Hat Package Manager
+- **RRAS**: routing and remote access service
+- **RRD**: removable rigid disk
+- **RS-449**: Recommended Standard-449
+- **RSAC**: Recreational Software Advisory Council
+- **RSAT**: remote server administration tools or regulatory sequence analysis tools
+- **RSL**: Rambus signaling level
+- **RSS**: Really Simple Syndication, or Relay Spam Stopper
+- **RT**: real-time or retweet
+- **RTC**: real-time clock
+- **RTDM**: read the damn manual
+- **RTF**: Rich Text Format
+- **RTFM**: read the f\*\*\*\*\*\* manual
+- **RTOS**: Real-time Operating System
+- **RTR**: RARE technical report
+- **RTS**: real-time strategy or Request to Send
+- **RTSP**: Real Time Streaming Protocol
+- **RTTTL**: Ringing Tone Text Transfer Language
+- **RUT**: are you there?
+- **RVR**: realm vs. realm
+- **RWD**: responsive web design
+- **RXD**: received data
+
 ## S
+
+- **S2R**: send to receive
+- **SaaS**: Software as a Service
+- **SACD**: Super Audio CD
+- **SAN**: storage area network
+- **SANE**: Standard Apple Numeric Environment or Scanner Access Now Easy
+- **SAP**: Service Advertising Protocol or Session Announcement Protocol
+- **SAS**: Serial Attached SCSI or Standalone Server
+- **SATA**: Serial AT Attachment
+- **SATAN**: Security Administrator Tool for Analyzing Networks
+- **SB**: SoundBlaster or sugar baby
+- **SBE**: Small Business Edition
+- **SC**: Service Controller, StarCraft, or Supercomputing Conference
+- **SCA**: Single Connector Attachment
+- **Scanf**: scan formatted
+- **SCC**: Serial Communications Controller or shipping container code
+- **SCCM**: system center configuration manager
+- **SCOM**: System Center Operations Manager
+- **ScrLk**: Scroll Lock key
+- **SCSI**: small computer system interface
+- **SD**: Secure Digital, single-sided diskette, single-density diskette, standard definition, or sugar daddy
+- **SDDL**: Security Descriptor Definition Language
+- **SDHC Card**: Secure Digital High Capacity card
+- **SDK**: software development kit
+- **SDLC**: synchronous data link control or systems development life cycle
+- **SDLT**: super digital linear tape
+- **SDRAM**: synchronous DRAM
+- **SDSL**: symmetrical DSL
+- **SDU**: service data unit
+- **SE**: search engine or second edition
+- **SEA**: self-extracting archive
+- **SECC**: single edge contact cartridge
+- **SELinux**: Security-Enhanced Linux
+- **SEO**: search engine optimization
+- **Serial No.**: serial number
+- **SERP**: search engine results page
+- **Servlet**: Java servlet
+- **SETI**: Search for Extraterrestrial Intelligence
+- **Setuid**: set user ID on execution
+- **Sexp or sexpr**: s-expression
+- **SFF**: small form factor
+- **SFTP**: Secure File Transfer Protocol or SSH File Transfer Protocol
+- **SFW**: safe for work
+- **SFX**: special effects, or sound effects
+- **SGD**: speech-generating device
+- **SGML**: Standard Generalized Markup Language
+- **SHV Connector**: safe high-voltage connector
+- **Sig**: signature
+- **SIGINT**: signal interrupt or Signals Intelligence
+- **Sim**: simulation
+- **SIM Card**: Subscriber Identity Module card
+- **SIMD**: single instruction, multiple data
+- **SIMM**: single inline memory module
+- **SIO**: super input/output
+- **SIP**: single in-line package
+- **SLA**: sealed lead-acid, or service-level agreement
+- **SLI**: Scalable Link Interface
+- **SLIP**: Serial Line Internet Protocol
+- **Slogin**: secure login
+- **Slotket**: socket adapter
+- **SLSI**: super-large scale integration
+- **SMAR**: source memory address register
+- **SMART**: Self-Monitoring Analysis and Reporting Technology
+- **SMB**: server message block, system management bus, or Super Mario Bros.
+- **SMBus**: System Management Bus
+- **SM Card**: SmartMedia card
+- **SMI**: System Management Interrupt, or Simple Mail Interface
+- **SMIL**: Synchronized Multimedia Integration Language
+- **SMM**: System Management Mode
+- **SMP**: symmetric multiprocessing
+- **SMPS**: switched-mode power supply
+- **SMRAM**: System Management RAM
+- **SMS**: short message service, storage management subsystem, or system management server
+- **SMT**: Surface-mount Technology
+- **SMTP**: Simple Mail Transfer Protocol
+- **SNA**: Systems Network Architecture
+- **SNMP**: Simple Network Management Protocol
+- **SOA**: service-oriented architecture or start of authority
+- **SOAP**: Simple Object Access Protocol
+- **SoC**: system on a chip
+- **SO-DIMM**: small outline dual in-line memory module
+- **SOHO**: small office/home office
+- **SOI**: silicon on insulator
+- **SOL**: Solitaire, s\*\*\* out of luck
+- **SONET**: synchronous optical networking
+- **SOP**: super operator, or standard operating procedure
+- **Source**: source code
+- **SP**: service pack or spelling
+- **SPARC**: Scalar Processor Architecture
+- **SPD**: Serial Presence Detection
+- **S/PDIF**: Sony and Phillips Digital Interconnect Format
+- **Spec**: specification
+- **SPI**: serial peripheral interface, stateful packet inspection, or system packet interface
+- **SPIM**: spam over instant message
+- **Spit**: Spam over Internet Telephony
+- **SPL**: systems programming language
+- **splogs**: spam blogs
+- **Spool**: simultaneous peripheral operatings online
+- **SPP**: Standard Parallel Port
+- **SPS**: Standard Power Supply
+- **SQL**: Structured Query Language
+- **SRAM**: static random access memory
+- **SS**: screenshot, South Sudan
+- **SSAP**: Source Service Access Point
+- **SSD**: solid-state drive
+- **SSE**: Simple Sharing Extension or Streaming SIMD Extensions
+- **SSEM**: Small Scale Experimental Machine
+- **SSI**: Server Side Include or small-scale integration
+- **SSID**: service set identifier
+- **SSL**: Secure Sockets Layer
+- **SSL**: Space Sciences Laboratory, UC Berkeley
+- **SSP**: storage service provider or System support program
+- **SSR**: solid-state relay
+- **SSTP**: Secure Socket Tunneling Protocol
+- **Stdin**: standard input
+- **STM**: Synchronous Transport Module
+- **STN**: supertwisted nematic
+- **STP**: Spanning Tree Protocol, shielded twisted pair, or software test plan
+- **STR**: Suspend-to-RAM or send to receive
+- **STS**: synchronous transport signal
+- **Sub**: subscript
+- **Subnet**: subnetwork) mas
+- **SUID**: set user ID
+- **SUS**: Single Unix Specification or suspicious
+- **Sup**: superscript
+- **SVCD**: Super Video CD
+- **SVGA**: Super Video Graphics Array
+- **S-Video**: Super Video
+- **SW**: software
+- **SXGA**: Super Extended Graphics Array
+- **SXGA+**: Super XGA Plus
+- **SYN**: synchronize
+- **sync**: synchronize
+- **synth**: synthesizer
+- **sysgen**: system generation
+- **syslog**: system log
+- **sysop**: system operator
+- **sysrq**: system request
 
 ## T
 
+- **TA**: terminal adapter
+- **Ta**: Tantalum
+- **TACACS**: Terminal Access Controller Access Control System
+- **TAPI**: Telephony Application Programming Interface
+- **TAR**: tape archive
+- **TCO**: total cost of ownership
+- **TCPA**: Trusted Computer Platform Alliance
+- **TCP/IP**: Transmission Control Protocol/Internet Protocol
+- **TD**: table data
+- **TDD**: telecommunications device for the deaf
+- **TDM**: team deathmatch
+- **TDP**: thermal design power or thermal design point
+- **Tech**: technology
+- **Telco Line**: telecommunications line
+- **Temp**: temporary or temperature
+- **TERA**: The Exiled Ream of Arborea
+- **TET**: text enhancement technology
+- **Texel**: texture element
+- **TFS**: Team Foundation Server or three-finger salute
+- **TFTP**: Trivial File Transfer Protocol
+- **TH**: table head
+- **THD**: total harmonic distortion
+- **Ti**: Tebi, Titanium, or Textas Instruments
+- **TIFF**: Tagged Image File Format
+- **TIGA**: Texas Instruments Graphics Architecture
+- **Tk**: toolkit
+- **T&L**: transform, clipping, and lighting
+- **TLD**: top-level domain
+- **TLP**: thread-level parallelism
+- **TLS**: Transport Layer Security
+- **TM**: trademark
+- **TN**: twisted nematic
+- **TOF**: top of file
+- **TOPS**: transparent operating system
+- **Tor**: The Onion Router
+- **TOS**: tape operating system, teacher over shoulder, terms of service, terms of use, or type of service
+- **TPI**: tracks per inch
+- **TPM**: Trusted Platform Module
+- **TP-PMD**:Twisted-Pair Physical Medium Dependant
+- **TR**: technical report
+- **Transistor**: transfer resistance
+- **Triple DEA**: Triple Data Encryption Algorithm
+- **TRS**: Tandy Radio Shack or Telecommunications Relay Service
+- **TSR**: terminate-and-stay-resident
+- **TT**: Turing test
+- **TTFB**: time to first byte
+- **TTL**: time to live, or transistor-transistor logic
+- **TTS**: text-to-speech
+- **TTY**: teletypewriter or teletype
+- **TV**: television
+- **TXD**: trasmit data
+
 ## U
+
+- **UA**: user agent
+- **UAC**: User Account Control
+- **Uarch**: microarchitecture
+- **UART**: Universal Asynchronous Receiver-Transmitter
+- **UBCD**: Ultimate Boot CD
+- **UC**: uppercase
+- **UCE**: unsolicited commercial e-mail
+- **UDF**: Universal Disk Format, user-defined font, or user-defined function
+- **UDID**: Unique Device Identification
+- **UDIMM**: unbuffered dual inline memory module
+- **UDMA**: Ultra Direct Memory Access
+- **UDP**: User Datagram Protocol
+- **UDSL**: unidirectional DSL
+- **UEFI**: Unified Extensible Firmware Interface
+- **UHCI**: Universal Host Controller Interface
+- **UHD**: Ultra High Definition
+- **UI**: user interface
+- **U/L**: upload
+- **UL**: upload, uplink, or Underwriters Laboratories
+- **UL**: unordered list
+- **ULSI**: Ultra Large Scale Integration
+- **UMA**: Upper Memory Area
+- **UMB**: upper memory block
+- **UNC**: Uniform Naming Convention or Universal Naming Convention
+- **UNIVAC**: Universal Automatic Computer
+- **UPC**: universal product code
+- **UPI**: User Program Interface
+- **UPnP**: Universal Plug and Play
+- **UPS**: uninterruptible power supply or United Parcel Service
+- **URC**: Uniform Resource Characteristic
+- **URI**: Uniform Resource Identifier
+- **URL**: Uniform Resource Locator
+- **URN**: Uniform Resource Name
+- **USB**: universal serial bus
+- **USMT**: User State Migration Tool
+- **USP**: unique selling point
+- **USR**: user, or U.S. Robotics
+- **USRT**: Universal Synchronous Receiver-Transmitter
+- **USWC**: uncachable speculative write combining
+- **UT**: Universal Time
+- **UTC**: Coordinated Universal Time
+- **UTF**: Unicode Transformation Format
+- **UTM**: Unified Threat Management, universal Turing machine, Urchin Tracking Module
+- **UTP**: unshielded twisted pair) cabl
+- **Uuencode**: Unix-to-Unix encode
+- **UUID**: universal unique identifier
+- **UV**: ultraviolet
+- **UWIN**: University of Washington Information Navigator
+- **UX**: user experience
+- **UXGA**: Ultra Extended Graphics Array
 
 ## V
 
+- **VA**: virtual address
+- **VAC**: Valve Anti-Cheat
+- **VADSL**: very high bit rate asymmetric digital subscriber line
+- **VAN**: value-added network
+- **VAR**: value-added reseller
+- **VB**: Visual Basic
+- **VBR**: variable bitrate or volume boot record
+- **VBScript**: Microsoft Visual Basic Scripting Edition
+- **VBV**: video buffering verifier
+- **VC**: venture capital, videoconferencing, virtual circuit, or version control
+- **VCEG**: Video Coding Experts Group or Visual Coding Experts Group
+- **VCI**: virtual circuit identifier
+- **VCPI**: virtual control program interface
+- **VCR**: video cassette recorder
+- **VDC**: voltage direct current or video display controller
+- **VDD**: virtual device driver, virtual disk drive
+- **VDSL**: very high data rate DSL
+- **VDU**: visual display unit or video display unit
+- **Ver**: Version
+- **Veronica**: Very Easy Rodent-Oriented Net-wide Index to Computer Archives
+- **VESA**: Video Electronics Standard Association
+- **VGA**: Video Graphics Array or Video Graphics Adapter
+- **VHDL**: VHSIC Hardware Description Language 
+- **VHF**: very high frequency
+- **Vhost**: virtual host
+- **VHS**: Video Home System
+- **VIM**: Vendor Independent Messaging
+- **VIP**: very important person
+- **VLAN**: virtual local area network
+- **VLB**: Vesa Local Bus
+- **VL Bus**: Vesa Local Bus
+- **VLC**: VideoLAN
+- **VLSI**: very-large-scale integration
+- **VM**: virtual machine, virtual memory, or voicemail
+- **VMEbus**: Versa Module Eurocard bus
+- **VMM**: Virtual Machine Manager or Virtual Machine Monitor
+- **VMS**: virtual memory system or voicemail system
+- **VNC**: Virtual Network Computing
+- **VOD**: video on demand
+- **VoIP**: Voice over Internet Protocol
+- **VoMM**: eVade o' Matic Module
+- **VPN**: virtual private network
+- **VPS**: virtual private server
+- **VR**: virtual reality
+- **VRAM**: video random access memory
+- **VRLA**: valve-regulated lead-acid
+- **VRM**: voltage regulator module
+- **VRML**: Virtual Reality Modeling Language
+- **Vs**: versus or Visual Studio
+- **VSAM**: virtual storage access method or virtual storage access memory
+- **VTuber**: Virtual YouTuber
+
 ## W
+
+- **W**: width
+- **W3C**: World Wide Web Consortium
+- **WAIS**: Wide Area Information Server
+- **WAN**: wide area network
+- **WAP**: Wireless Application Protocol or wireless access point
+- **WARP**: Warning, Advice and Reporting Point
+- **WBEM**: Web-based Enterprise Management
+- **WCDMA**: Wideband Code Division Multiple Access
+- **WCN**: Windows Connect Now
+- **WD**: Western Digital, working directory, or working draft
+- **WDF**: Window Driver Foundation or Windows Driver Frameworks
+- **Web App**: web application
+- **WEP**: Wired Equivalent Privacy
+- **WFM**: Wired for Management
+- **WFP**: Windows File Protection
+- **WGA**: Windows Genuine Advantage
+- **WiMAX**: Worldwide Interoperability for Microwave Access
+- **Windows PE**: Windows Pre-install Environment
+- **Winsock**: Windows socket
+- **WISP**: wireless Internet service provider
+- **WMF**: Windows metafile format or Wikimedia Foundation
+- **WMI**: Windows Management Instrumentation
+- **WML**: Wireless Markup Language or Website META Language
+- **WOL**: Wake-on-LAN
+- **WOTD**: word of the day
+- **WOW**: Windows on Windows or World of Warcraft
+- **WP**: way point, well played, word processor, or WordPress
+- **WPAD**: Web Proxy Auto Discovery
+- **Wpcomp**: write pre-comp or word processing competency
+- **WQXGA**: Wide Quad Extended Graphics Array
+- **WRAM**: Windows RAM
+- **WSXGA**: Widescreen Super eXtended Graphics Array
+- **WTF**: what the f***
+- **WTH**: what the hell
+- **WWDC**: Apple Worldwide Developer Conference
+- **WWW**: World Wide Web
+- **WYSIWYG**: what you see is what you get
+- **WYSIWYP**: what you see is what you print
 
 ## X
 
+- **X**: X Window System
+- **X11**: X Window System
+- **XDF**: extended density format
+- **XGA**: Extended Graphics Array
+- **XHTML**: Extensible Hypertext markup Language
+- **XML**: Extensible Markup Language
+- **XMPP**: Extensible Messaging and Presence Protocol
+- **XMS**: extended memory specification
+- **XPAC**: expansion pack
+- **XPM**: XP mode
+- **XSL**: Extensible Stylesheet Language
+- **XSLT**: Extensible Stylesheet Language Transformations
+- **XSS**: cross-site scripting
+- **XT**: extended technology
+
 ## Y
+
+- **Y2K**: year 2000
+- **YAML**: YAML Ain't Markup Language
+- **YAUN**: yet another Unix nerd
+- **YT**: you there or YouTube
 
 ## Z
 
+- **ZB**: zettabyte
+- **ZCS**: Zimbra Collaboration Suite
+- **ZiB**: zebibyte
+- **ZIF**: zero insertion force
+- **ZIP**: Zone Information Protocol or Zoning Improvement Plan
+- **ZIPI**: Zeta Instruments Processor Interface
+- **ZV Port**: zoomed video port
