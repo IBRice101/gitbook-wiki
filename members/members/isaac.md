@@ -28,7 +28,7 @@ Originally from Liverpool, currently resident of wonderful, sunny Dundee
 * [Google-Fu](/help-guides/techniques/google-fu.md)
 * [Installing Arch](/help-guides/software/operating-systems/arch-walkthrough.md)
 * [Installing Kali in VMWare](/help-guides/software/operating-systems/kali-walkthrough.md)
-* [Linux Commands for Beginners](/help-guides/software/operating-systems/linux-commands.md)
+* [Linux for Beginners](/help-guides/software/operating-systems/linux-for-beginners.md)
 * [Project Ideas](/help-guides/programming-scripting/project-ideas.md)
 * [Radare2](help-guides/software/tools/radare2.md)
 * [Some formatting rules for contributing to the Wiki](/contributing/contributions/formatting.md)

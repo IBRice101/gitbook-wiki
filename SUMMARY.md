@@ -41,7 +41,7 @@
   * [Operating Systems](help-guides/software/operating-systems/README.md)
     * [Installing Arch](help-guides/software/operating-systems/arch-walkthrough.md)
     * [Installing Kali](help-guides/software/operating-systems/kali-walkthrough.md)
-    * [Linux Commands for Beginners](help-guides/software/operating-systems/linux-commands.md)
+    * [Linux for Beginners](help-guides/software/operating-systems/linux-for-beginners.md)
     * [MacOS](help-guides/software/operating-systems/macos.md)
   * [Tools](help-guides/software/tools/README.md)
     * [PGP](help-guides/software/tools/pgp/README.md)
